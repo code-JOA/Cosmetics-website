@@ -153,8 +153,6 @@ body {
 }
 
 #main #img1 {
-  height: 400px;
-  width: 260px;
   position: absolute;
   right: 72%;
   top: 18%;
