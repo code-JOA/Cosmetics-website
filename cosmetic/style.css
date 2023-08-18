@@ -133,7 +133,7 @@ body {
   width: 60%;
   position: relative;
   /* z-index: 99; */
-  left: 50px;
+  left: 70px;
   background-color: red;
   text-transform: capitalize;
 }
@@ -154,7 +154,7 @@ body {
 
 #main #img1 {
   height: 85%;
-  /* background-color: #fff; */
+  background-color: yellow;
   margin-left: 30px;
   -webkit-transform: rotate(-15deg);
   -ms-transform: rotate(-15deg);
