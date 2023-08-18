@@ -103,6 +103,10 @@ body {
 #nav #part2 a:hover {
   color: red;
 }
+.hover-line::after {
+  content: "";
+  display: block;
+}
 
 #nav > h1 {
   font-size: 20px;
