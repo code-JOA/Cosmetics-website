@@ -111,7 +111,7 @@ body {
   color: rgb(0, 174, 255);
 }
 
-#nav #part2 .hover-line::after {
+.hover-line::after {
   content: "";
   display: block;
   width: 100%;
