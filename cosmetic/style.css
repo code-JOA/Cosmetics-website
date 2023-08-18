@@ -245,6 +245,7 @@ body {
 
 .bubbles img:nth-child(1) {
   animation-delay: 2s;
+  width: 25px;
 }
 
 .bubbles img:nth-child(2) {
@@ -253,6 +254,7 @@ body {
 
 .bubbles img:nth-child(3) {
   animation-delay: 3s;
+  width: 25px;
 }
 
 .bubbles img:nth-child(4) {
@@ -264,8 +266,10 @@ body {
 }
 .bubbles img:nth-child(6) {
   animation-delay: 6s;
+  width: 20px;
 }
 
 .bubbles img:nth-child(1) {
   animation-delay: 2s;
+  width: 20px;
 }
