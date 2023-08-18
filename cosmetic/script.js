@@ -1,21 +1,3 @@
-// var circle = document.querySelector("#circle");
-// var frame = document.querySelector(".frame");
-
-// const lerp = (x, y, a) => x * (1 - a) + y * a;
-
-// // window.addEventListener("mousemove", function (dets) {
-// //   circle.style.transform = `translate(${dets.clientX}px, ${dets.clientY}px)`;
-// // });
-
-// window.addEventListener("mousemove", function (dets) {
-//   gsap.to(circle, {
-//     x: dets.clientX,
-//     y: dets.clientY,
-//     duration: 0.2,
-//     ease: Expo,
-//   });
-// });
-
 frame.addEventListener("mousemove", function (dets) {
   var dims = frame.getBoundingClientRect();
 
