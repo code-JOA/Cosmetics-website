@@ -153,9 +153,12 @@ body {
 }
 
 #main #img1 {
-  position: absolute;
-  right: 72%;
-  top: 18%;
+  height: 85%;
+  /* background-color: #fff; */
+  margin-left: 30px;
+  -webkit-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  transform: rotate(-15deg);
 }
 
 #main #img2 {
