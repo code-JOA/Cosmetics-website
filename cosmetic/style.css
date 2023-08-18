@@ -101,6 +101,10 @@ body {
 }
 
 #nav #part2 a {
+  font-size: 28px;
+  color: blue;
+  text-decoration: none;
+  transform: 0.3s all;
 }
 
 #nav #part2 a:hover {
