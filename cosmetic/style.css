@@ -104,12 +104,12 @@ body {
   color: red;
 }
 
-#nav .hover-line::after {
+#nav #part2 .hover-line::after {
   content: "";
   display: block;
   width: 100%;
   height: 2px;
-  background-color: yellow;
+  background-color: antiquewhite;
   transition: width 0.3;
 }
 
