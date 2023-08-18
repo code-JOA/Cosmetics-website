@@ -155,7 +155,7 @@ body {
 #main #img1 {
   height: 85%;
   background-color: yellow;
-  margin-left: 50px;
+  margin-left: -20px;
   -webkit-transform: rotate(-15deg);
   -ms-transform: rotate(-15deg);
   transform: rotate(5deg);
