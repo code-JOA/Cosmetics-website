@@ -112,6 +112,11 @@ body {
   transition: width 0.3;
 }
 
+.hover-line:hover::after {
+  width: 100%;
+  transition: width 0.3s;
+}
+
 #nav > h1 {
   font-size: 20px;
   font-weight: 500;
