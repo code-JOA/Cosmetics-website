@@ -102,13 +102,13 @@ body {
 
 #nav #part2 a {
   /* font-size: 28px; */
-  color: blue;
+  color: #fff;
   text-decoration: none;
-  transform: 0.3s all;
+  transition: 0.3s all;
 }
 
 #nav #part2 a:hover {
-  color: red;
+  color: rgb(0, 174, 255);
 }
 
 #nav #part2 .hover-line::after {
