@@ -103,7 +103,8 @@ body {
 #nav #part2 a:hover {
   color: yellow;
 }
-.hover-line::after {
+
+#nav #part2 .hover-line::after {
   content: "";
   display: block;
   width: 100%;
