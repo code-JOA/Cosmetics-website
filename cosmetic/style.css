@@ -1,6 +1,6 @@
 @font-face {
-  font-family: roslinda;
-  src: url(./Cooperltbt.ff);
+  font-family: elfont;
+  src: url(./elfonteangelia-light.ttf);
 }
 
 * {
@@ -14,7 +14,7 @@ html,
 body {
   width: 100%;
   height: 100%;
-  font-family: "cooper";
+  font-family: "elfont";
 }
 
 #main {
