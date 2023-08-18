@@ -101,7 +101,7 @@ body {
 }
 
 #nav #part2 a:hover {
-  color: yellow;
+  color: red;
 }
 
 #nav #part2 .hover-line::after {
