@@ -218,7 +218,7 @@ body {
   margin-top: 40px;
 }
 
-.bubbles img {
+/* .bubbles img {
   width: 50px;
   animation: bubble 7s linear;
 }
@@ -280,4 +280,4 @@ body {
 .bubbles img:nth-child(1) {
   animation-delay: 2s;
   width: 20px;
-}
+} */
