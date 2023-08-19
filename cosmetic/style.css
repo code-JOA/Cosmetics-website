@@ -126,7 +126,7 @@ body {
   transition: width 0.3;
 }
 
-#nav #part2 .hover-line:hover::after {
+#nav #part2 .hover-line::after {
   width: 100%;
   transition: width 0.3s;
 }
