@@ -186,7 +186,7 @@ body {
 }
 
 #main #img1 {
-  height: 85%;
+  height: 65%;
   /* background-color: yellow; */
   /* margin-left: 30px; */
   -webkit-transform: rotate(-15deg);
@@ -203,10 +203,10 @@ body {
 }
 
 #main #img3 {
-  height: 210px;
-  width: 200px;
+  height: 110px;
+  width: 100px;
   position: absolute;
-  right: 7%;
+  right: 27%;
   top: 56%;
 }
 
