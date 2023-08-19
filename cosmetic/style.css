@@ -114,7 +114,7 @@ body {
 }
 
 #nav #part2 a:hover {
-  color: rgb(0, 174, 255);
+  color: #fff;
 }
 
 #nav #part2 .hover-line::after {
