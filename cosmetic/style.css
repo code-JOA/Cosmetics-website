@@ -30,7 +30,8 @@ body {
   justify-content: center;
   /* background-color: antiquewhite; */
   background-color: #c2c0b5;
-  cursor: none;
+  /* uncomment to remove mouse pointer */
+  /* cursor: none; */
 }
 
 .frame span {
@@ -55,18 +56,6 @@ body {
   /* background-color: red; */
   overflow: hidden;
 }
-
-/* #nav {
-  height: 100px;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  background-color: rgba(28, 28, 28, 0.95);
-  align-items: center;
-  display: flex;
-  padding: 0 40px;
-  justify-content: space-between;
-} */
 
 #nav {
   height: 70px;
@@ -115,7 +104,8 @@ body {
 }
 
 #nav #part2 a:hover {
-  color: #fff;
+  /* color: #fff; */
+  color: yellowgreen;
 }
 
 #nav #part2 .hover-line::after {
